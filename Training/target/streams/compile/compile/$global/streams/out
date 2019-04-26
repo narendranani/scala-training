@@ -1,0 +1,4 @@
+[error] E:\scala_sessions\src\main\scala\FileHandling.scala:31:1: expected class or object definition
+[error] def testing(): Unit ={
+[error] ^
+[error] one error found
